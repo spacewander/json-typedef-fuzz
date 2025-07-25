@@ -27,7 +27,7 @@ For all other platforms, you can download and extract the binary yourself from
 [the latest release][latest]. You can also install using `cargo` by running:
 
 ```bash
-cargo install jtd_fuzz
+cargo install jtd-fuzz
 ```
 
 ## Usage
